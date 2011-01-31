@@ -14,7 +14,3 @@ Files
   when linked to a normal, unpatched Three20 library; you can see the baseline bug.  The
   "after-patch.png" screenshot shows the same app running after my patch has been applied
   to Three20; the baseline of the text lines up properly.
-
-Before: ![Before](before-patch.png)
-
-After: ![After](after-patch.png)
