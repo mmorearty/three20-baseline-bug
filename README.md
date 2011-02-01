@@ -10,7 +10,4 @@ Files
         $ cd <your-three20-dir>/src/scripts
         $ python ttmodule.py <path>/three20-baseline-bug/BaselineTest/BaselineTest.xcodeproj -c Debug -c Release Three20
 
-* Two screenshots: "before-patch.png" screenshot shows the result of running the BaselineTest app
-  when linked to a normal, unpatched Three20 library; you can see the baseline bug.  The
-  "after-patch.png" screenshot shows the same app running after my patch has been applied
-  to Three20; the baseline of the text lines up properly.
+* Screenshots: `before-patches.png`, `after-only-patch-1.png`, `after-only-patch-2.png`, `after-both-patches.png`.
