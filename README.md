@@ -1,10 +1,13 @@
-Demo of Three20 baseline bug
-============================
+Demo of Three20 baseline bugs
+=============================
+
+This is a demo of two bugs in the Three20 library: [issue 377](https://github.com/facebook/three20/issues/377)
+and [issue 378](https://github.com/facebook/three20/issues/378).
 
 Files
 -----
 
-*   "BaselineTest", a sample project to reproduce the bug.  **Important:** This project will not
+*   "BaselineTest", a sample project to reproduce the bugs.  **Important:** This project will not
     compile until you link Three20 to it.  To do that:
 
         $ cd <your-three20-dir>/src/scripts
